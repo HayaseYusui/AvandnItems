@@ -1,2 +1,2 @@
 # AvandnItems
-ファン用
+制作中
